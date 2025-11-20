@@ -1,4 +1,4 @@
-# owoTracker to OpenTrack Bridge
+# owoTrack to OpenTrack Bridge
 
 <img width="852" height="751" alt="image" src="https://github.com/user-attachments/assets/bc361e04-b132-42f8-8907-2403073222c4" />
 
@@ -37,7 +37,7 @@ A lightweight Python application with a graphical user interface that acts as a 
     -   On **Linux** or **macOS**, run `bash owotracker2opentrack.sh`.
 
 2.  **Configure your Phone App:**
-    -   Install and open the OwoTracker app on your phone.
+    -   Install and open the OwoTrack app on your phone.
     -   Use Auto-connect button or follow manual connection steps below:
     -   Set the target IP address to your computer's local IP address.
     -   Set the port to `6969`.

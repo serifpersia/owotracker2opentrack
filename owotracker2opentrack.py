@@ -205,7 +205,7 @@ class UdpWorker(QObject):
 class MainWindow(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("oWoTrack Visual Bridge")
+        self.setWindowTitle("OwoTrack Visual Bridge")
         self.setGeometry(100, 100, 850, 420)
         self.setStyleSheet("""
             QWidget { background-color: #2b2b2b; color: #f0f0f0; font-size: 14px; }
