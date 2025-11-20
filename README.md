@@ -1,6 +1,6 @@
 # OwoTrack to OpenTrack Bridge
 
-<img width="852" height="751" alt="image" src="https://github.com/user-attachments/assets/bc361e04-b132-42f8-8907-2403073222c4" />
+<img width="852" height="751" alt="image" src="https://github.com/user-attachments/assets/86c90ff7-f53e-4bea-b433-4d743b863d70" />
 
 A lightweight Python application with a graphical user interface that acts as a bridge between an OwoTrack-compatible phone app and OpenTrack for head tracking.
 
