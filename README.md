@@ -1,8 +1,8 @@
-# owoTrack to OpenTrack Bridge
+# OwoTrack to OpenTrack Bridge
 
 <img width="852" height="751" alt="image" src="https://github.com/user-attachments/assets/bc361e04-b132-42f8-8907-2403073222c4" />
 
-A lightweight Python application with a graphical user interface that acts as a bridge between an owoTrack-compatible phone app and OpenTrack for head tracking.
+A lightweight Python application with a graphical user interface that acts as a bridge between an OwoTrack-compatible phone app and OpenTrack for head tracking.
 
 ## Features
 
@@ -13,7 +13,7 @@ A lightweight Python application with a graphical user interface that acts as a 
 ## Requirements
 
 -   [Python 3](https://www.python.org/downloads/)
--   An owoTrack-compatible tracker app on your phone.
+-   An OwoTrack-compatible tracker app on your phone.
 -   [OpenTrack](https://github.com/opentrack/opentrack) installed and running.
 
 ## Installation
